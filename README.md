@@ -1,2 +1,3 @@
 # extractorator
-It's dangerously awesome.
+use resposibily. 
+just run launch.bat
