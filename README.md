@@ -1,3 +1,3 @@
 # extractorator
-use resposibly. 
+use responsibly. 
 just run launch.bat
